@@ -1,6 +1,6 @@
 # Guide d'utilisation — Creality K1C (imprimante du club)
 
-## 0) Préambule
+## 0. Préambule
 
 Cette documentation décrit l'utilisation de l'imprimante 3D Creality K1C disponible au club.
 
@@ -10,27 +10,27 @@ Cette documentation décrit l'utilisation de l'imprimante 3D Creality K1C dispon
 
 Remarque importante : bien qu'il soit théoriquement possible d'imprimer des filaments chargés (par ex. fibres de carbone), la buse d'origine de notre machine n'est pas appropriée pour ces matériaux abrasifs et nous ne recommandons pas leur utilisation avec l'équipement actuel.
 
-## 1) Mise en route
+## 1. Mise en route
 
-### 1. Mise sous tension
+### a. Mise sous tension
 
 - Mettre la machine sous tension avec l'interrupteur arrière.
 
-### 2. Chargement du filament
+### b. Chargement du filament
 
 - Découper proprement l'extrémité du fil (biseaux à 45° utiles).
 - Insérer le filament dans l'orifice d'entrée jusqu'à sentir qu'il descend d'environ 1 cm à l'intérieur de la tête.
 - Bloquer le maintien du filament au niveau de la tête (verrouillage du tendeur).
 
-### 3. Test d'extrusion
+### c. Test d'extrusion
 
 - Effectuer une extrusion manuelle depuis l'écran pour vérifier que le filament sort correctement.
 
 > Une calibration de base a déjà été réalisée sur cette machine. Toutefois, si la première couche est mauvaise ou si l'imprimante a été déplacée, il faut relancer la procédure de calibration complète depuis l'écran avant d'imprimer.
 
-## 2) Impressions
+## 2. Impressions
 
-### a) Préparation du G-code (sur PC)
+### a. Préparation du G-code (sur PC)
 
 Deux options disponibles sur le PC du club : **Orca Slicer** ou **Creality Print**. Nous recommandons `Orca Slicer` (plus complet), mais `Creality Print` fonctionne aussi.
 
@@ -44,7 +44,7 @@ Deux options disponibles sur le PC du club : **Orca Slicer** ou **Creality Print
 
 > Vous pouvez tout à fait préparer le G-code chez vous ; le PC du club est disponible si vous avez besoin d’un poste équipé.
 
-### b) Impression depuis la machine
+### b. Impression depuis la machine
 
 - Insérer la clé USB contenant le G-code dans la machine.
 - Depuis l'écran, cliquer sur l'icône « Accueil » (maison).
@@ -59,7 +59,7 @@ Vérifier l'adhésion de la première couche dans les premières minutes. Si la 
 - Vérifier l'état de la surface du plateau ; si nécessaire nettoyer avec une lingette et de l'eau savonneuse, puis bien sécher.
 - Relancer une calibration complète avant de réessayer.
 
-### c) Récupération de la pièce
+### c. Récupération de la pièce
 
 Félicitations, vous devriez avoir votre pièce imprimée :
 
@@ -69,19 +69,19 @@ Félicitations, vous devriez avoir votre pièce imprimée :
 - Si nécessaire, finir le dégagement avec la spatule fournie.
 - Remettre la plaque en place en alignant les encoches triangulaires avec les points magnétiques.
 
-## 3) Arrêt de la machine
+## 3. Arrêt de la machine
 
-### a) Retirer le filament
+### a. Retirer le filament
 
 - Depuis l'écran, faire une rétraction manuelle (prévoir chauffe si nécessaire) et retirer le filament.
 - Déverrouiller le maintien du filament au niveau de la tête avant de tirer le filament depuis la bobine.
 
-### b) Stockage du filament
+### b. Stockage du filament
 
 - Stocker la bobine dans un sachet anti-humidité avec un absorbeur (silica gel).
 - Bien scotcher/fermer le sachet pour limiter l'humidité ; sinon le filament peut devenir cassant.
 
-### c) Mise hors tension
+### c. Mise hors tension
 
 - Attendre que la machine ait suffisamment redescendu en température.
 - Mettre hors tension le bouton situé à l'arrière.
