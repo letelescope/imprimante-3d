@@ -19,12 +19,14 @@ Remarque importante : bien qu'il soit théoriquement possible d'imprimer des fil
 ### b. Chargement du filament
 
 - Découper proprement l'extrémité du fil (biseaux à 45° utiles).
+- Verifier que le verouillage du tendeur sur la tête est en position ouverte
 - Insérer le filament dans l'orifice d'entrée jusqu'à sentir qu'il descend d'environ 1 cm à l'intérieur de la tête.
 - Bloquer le maintien du filament au niveau de la tête (verrouillage du tendeur).
 
 ### c. Test d'extrusion
 
-- Effectuer une extrusion manuelle depuis l'écran pour vérifier que le filament sort correctement.
+- Effectuer une extrusion manuelle depuis l'écran pour vérifier que le filament sort correctement (un peu de filament doit s'écouler de la buse).
+    - (se trouve dans l'onglet "filament" de l'entrée du menu avec les bares horizontales )
 
 > Une calibration de base a déjà été réalisée sur cette machine. Toutefois, si la première couche est mauvaise ou si l'imprimante a été déplacée, il faut relancer la procédure de calibration complète depuis l'écran avant d'imprimer.
 
@@ -74,15 +76,16 @@ Félicitations, vous devriez avoir votre pièce imprimée :
 ### a. Retirer le filament
 
 - Depuis l'écran, faire une rétraction manuelle (prévoir chauffe si nécessaire) et retirer le filament.
+    - (également dans l'onglet "filament" du menu)
 - Déverrouiller le maintien du filament au niveau de la tête avant de tirer le filament depuis la bobine.
 
 ### b. Stockage du filament
 
 - Stocker la bobine dans un sachet anti-humidité avec un absorbeur (silica gel).
 - Bien scotcher/fermer le sachet pour limiter l'humidité ; sinon le filament peut devenir cassant.
+    - il y a une griffe bleue pour bien fermer le zip du sachet et une petite pompe pour faire le vide.
 
 ### c. Mise hors tension
 
 - Attendre que la machine ait suffisamment redescendu en température.
 - Mettre hors tension le bouton situé à l'arrière.
-
