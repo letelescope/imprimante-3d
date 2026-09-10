@@ -40,7 +40,7 @@ Deux options disponibles sur le PC du club : **Orca Slicer** ou **Creality Print
 - Choisir le profil d'imprimante : **Creality K1C**
 - Choisir le profil de filament correspondant (par ex. **PLA Overture Matte**)
 - Dans l'onglet « Préparer », importer le fichier 3D (`.stl`).
-- Si besoin, modifier les paramètres d'impression : nous recommandons un remplissage (`infill`) de **10–15%** pour la plupart des pièces non structurales.
+- Si besoin, modifier les paramètres d'impression : nous recommandons un remplissage (`infill`) de **10–15%** pour la plupart des pièces non structurales. Le choix du profil "0.20mm Standard" permet un bon compromis entre précision et vitesse d'impression ; il est recommandé pour la plupart des usages.
 - Lancer le découpage (slicing) puis exporter le fichier G-code.
 - Copier le G-code à la racine de la clé USB (la clé doit ensuite être branchée à la machine).
 
